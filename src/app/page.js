@@ -89,7 +89,7 @@ export default function Home() {
         >
           <div>
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Hi, I’m <span className="text-cyan-500">Kristofer</span>
+            Hi, I am <span className="text-cyan-500">Kristofer</span>
           </h2>
 
           <p className="text-lg text-cyan-400 font-semibold mb-6">
@@ -419,7 +419,7 @@ export function ProjectsSection() {
     >
       <h2 className="text-4xl font-bold mb-4 text-white">Projects</h2>
       <p className="text-gray-400 mb-12 text-center max-w-2xl">
-        Here are some of the projects I've worked on, combining creativity, clean code, and user-focused design.
+        Here are some of the projects I have worked on, combining creativity, clean code, and user-focused design.
       </p>
 
       <div className="grid md:grid-cols-3 gap-8 w-full max-w-6xl">
